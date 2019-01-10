@@ -30,7 +30,7 @@
 }
 
 .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
-  text: uppercase;
+  text-decoration: uppercase;
   background: #000000;
   color: #ffffff;
 }
