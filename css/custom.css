@@ -1,3 +1,7 @@
+body {
+  position: relative;
+}
+
 .navbar-dark .navbar-brand {
   font-family: 'Open Sans Condensed', sans-serif;
   font-size: 1.4rem;
