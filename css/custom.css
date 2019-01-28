@@ -74,6 +74,12 @@ body {
   text-decoration: none;
 }
 
+.fa-file-pdf-o: hover {
+  background: #ff0000;
+  color: white;
+  text-decoration: none;
+}
+
 .fa-facebook:hover {
   background: #3B5998;
   color: white;
