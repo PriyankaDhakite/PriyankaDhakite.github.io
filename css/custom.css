@@ -75,11 +75,10 @@ body {
 }
 
 .fa-file-pdf-o:hover {
-  background: #ff0000;
+  background: #cb2027;
   color: white;
   text-decoration: none;
 }
-
 .fa-facebook:hover {
   background: #3B5998;
   color: white;
@@ -87,7 +86,7 @@ body {
 }
 
 .fa-envelope-o:hover {
-  background: #dd4b39;
+  background: #cb2027;
   color: white;
   text-decoration: none;
 }
