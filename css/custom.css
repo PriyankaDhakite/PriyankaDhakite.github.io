@@ -86,7 +86,7 @@ body {
   text-decoration: none;
 }
 
-.fa-google:hover {
+.fa-envelope-o:hover {
   background: #dd4b39;
   color: white;
   text-decoration: none;
@@ -113,7 +113,7 @@ body {
   color: white;
 }
 
-.fa-google {
+.fa-envelope-o {
   background: black;
   color: white;
 }
