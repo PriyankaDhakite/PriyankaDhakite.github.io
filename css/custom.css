@@ -75,7 +75,7 @@ body {
 }
 
 .fa-file-pdf-o:hover {
-  background: #cb2027;
+  background: #ff0000;
   color: white;
   text-decoration: none;
 }
@@ -86,7 +86,7 @@ body {
 }
 
 .fa-envelope:hover {
-  background: #cb2027;
+  background: #B23121;
   color: white;
   text-decoration: none;
 }
