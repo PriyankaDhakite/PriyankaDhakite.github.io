@@ -84,7 +84,7 @@ body {
   text-decoration: none;
 }
 
-.fa-envelope:hover {
+.fa-envelope-o:hover {
   background: #B23121;
   color: white;
   text-decoration: none;
@@ -110,7 +110,7 @@ body {
   color: white;
 }
 
-.fa-envelope {
+.fa-envelope-o {
   background: black;
   color: white;
 }
