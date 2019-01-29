@@ -113,6 +113,10 @@ body {
   color: black;
 }
 
-float-images {
+img {
   float: left;
+}
+
+.clearfix {
+  overflow: auto;
 }
