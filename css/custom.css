@@ -112,11 +112,3 @@ body {
 .fa-pinterest {
   color: black;
 }
-
-img {
-  float: left;
-}
-
-.clearfix {
-  overflow: auto;
-}
