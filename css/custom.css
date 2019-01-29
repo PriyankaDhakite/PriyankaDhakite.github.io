@@ -112,3 +112,7 @@ body {
 .fa-pinterest {
   color: black;
 }
+
+img {
+  float: left;
+}
