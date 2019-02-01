@@ -8,6 +8,16 @@ body {
   text-decoration: none;
 }
 
+a:link {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #737373;
+  background-color: transparent;
+}
+
 .container-fluid {
   font-family: 'Open Sans Condensed', sans-serif;
 }
@@ -17,9 +27,9 @@ body {
 }
 
 .fa {
-  padding: 20px;
-  font-size:50px;
-  width: 60px;
+  padding: 10px;
+  font-size:30px;
+  width: 20px;
   text-align: center;
   text-decoration: none;
 }
@@ -29,7 +39,7 @@ body {
   text-decoration: none;
 }
 
-.fa-envelope:hover {
+.fa-envelope-o:hover {
   color: #B23121;
   text-decoration: none;
 }
@@ -50,21 +60,21 @@ body {
 }
 
 .fa-file-pdf-o {
-  color: black;
+  color: white;
 }
 
-.fa-envelope {
-  color: black;
+.fa-envelope-o {
+  color: white;
 }
 
 .fa-linkedin {
-  color: black;
+  color: white;
 }
 
 .fa-facebook {
-  color: black;
+  color: white;
 }
 
 .fa-pinterest {
-  color: black;
+  color: white;
 }
