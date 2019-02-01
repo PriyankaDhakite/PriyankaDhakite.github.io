@@ -1,6 +1,7 @@
 body {
   position: relative;
-  background-image: url("PriyankaDhakite.github.io/background.png");
+  opacity: 1;
+  animation: fadeIn 4s ease;
 }
 
 .lead {
@@ -77,4 +78,13 @@ a:hover {
 
 .fa-pinterest {
   color: white;
+}
+
+@keyframes fadeIn{
+  0%{
+    opacity: 0;
+  }
+  100%{
+    opacity: 1;
+  }
 }
