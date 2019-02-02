@@ -11,13 +11,13 @@ body {
   text-decoration: none;
   border-style: solid;
   border-color: white;
+  border-spacing: 50px;
   margin: 25px;
 }
 
 .container-fluid {
   font-family: 'Open Sans Condensed', sans-serif;
   font-style: "Arial Narrow"
-}
 }
 
 .media-body{
