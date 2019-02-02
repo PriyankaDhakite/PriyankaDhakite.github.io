@@ -8,6 +8,15 @@ body {
   font-style: "Arial Narrow"
   font-size: 1.5rem;
   text-decoration: none;
+  border-style: solid;
+  border-color: white;
+  margin: 25px;
+}
+
+.description {
+  border-style: solid;
+  border-color: white;
+  margin: 25px;
 }
 
 /*a:link {
