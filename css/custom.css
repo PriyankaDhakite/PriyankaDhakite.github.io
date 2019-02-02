@@ -51,16 +51,6 @@ a:hover {
   text-decoration: none;
 }
 
-.fa-facebook:hover {
-  color: #3B5998;
-  text-decoration: none;
-}
-
-.fa-pinterest:hover {
-  color: #cb2027;
-  text-decoration: none;
-}
-
 .fa-file-pdf-o {
   color: white;
 }
@@ -70,14 +60,6 @@ a:hover {
 }
 
 .fa-linkedin {
-  color: white;
-}
-
-.fa-facebook {
-  color: white;
-}
-
-.fa-pinterest {
   color: white;
 }
 
