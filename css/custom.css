@@ -2,6 +2,7 @@ body {
   position: relative;
   opacity: 1;
   animation: fadeIn 4s ease;
+  font-style: "Arial Narrow"
 }
 
 .lead {
@@ -13,18 +14,10 @@ body {
   margin: 25px;
 }
 
-/*a:link {
-  color: white;
-  text-decoration: none;
-}
-
-a:hover {
-  color: #737373;
-  background-color: transparent;
-}*/
-
 .container-fluid {
   font-family: 'Open Sans Condensed', sans-serif;
+  font-style: "Arial Narrow"
+}
 }
 
 .media-body{
