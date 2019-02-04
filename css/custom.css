@@ -46,6 +46,11 @@ body {
   text-decoration: none;
 }
 
+.fa-github:hover {
+  color: #6e5494;
+  text-decoration: none;
+}
+
 .fa-file-pdf-o {
   color: white;
 }
@@ -55,6 +60,10 @@ body {
 }
 
 .fa-linkedin {
+  color: white;
+}
+
+.fa-github {
   color: white;
 }
 
