@@ -3,6 +3,10 @@ body {
   opacity: 1;
   animation: fadeIn 4s ease;
   font-style: "Arial Narrow"
+  background-color: white;
+  border-style: solid;
+  border-color: black;
+  margin: 50px;        
 }
 
 .lead {
