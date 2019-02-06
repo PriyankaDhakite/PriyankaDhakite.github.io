@@ -2,12 +2,12 @@ body {
   position: relative;
   opacity: 1;
   animation: fadeIn 4s ease;
-  font-style: "Arial Narrow"
+  font-family: "Times New Roman", Times, serif;  
   background-color: white;
 }
 
 .lead {
-  font-style: "Arial Narrow"
+  font-family: "Times New Roman", Times, serif;  
   font-size: 1.5rem;
   text-decoration: none;
   border-style: solid;
@@ -16,9 +16,9 @@ body {
   margin: 0px;
 }
 
-.container-fluid {
+/*.container-fluid {
   font-family: "Arial Narrow", sans-serif;
-}
+}*/
 
 .media-body{
   font-size:30px;
