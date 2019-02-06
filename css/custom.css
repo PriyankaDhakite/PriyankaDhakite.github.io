@@ -52,19 +52,19 @@ body {
 }
 
 .fa-file-pdf-o {
-  color: white;
+  color: black;
 }
 
 .fa-envelope-o {
-  color: white;
+  color: black;
 }
 
 .fa-linkedin {
-  color: white;
+  color: black;
 }
 
 .fa-github {
-  color: white;
+  color: black;
 }
 
 @keyframes fadeIn{
