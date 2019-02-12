@@ -8,17 +8,13 @@ body {
 
 .lead {
   font-family: "Times New Roman", Times, serif;  
-  font-size: 1.2rem;
+  font-size: 1.0rem;
   text-decoration: none;
   border-style: solid;
   border-color: white;
   padding: 20px;
   margin: 0px;
 }
-
-/*.container-fluid {
-  font-family: "Arial Narrow", sans-serif;
-}*/
 
 .media-body{
   font-size:30px;
