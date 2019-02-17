@@ -6,8 +6,8 @@ body {
   background-color: white;
 }
 
-.Home {
-  margin: auto;
+#home {
+  margin: 0 auto;
 }
 
 .lead {
