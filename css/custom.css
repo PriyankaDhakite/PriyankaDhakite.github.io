@@ -4,6 +4,7 @@ body {
   animation: fadeIn 4s ease;
   font-family: "Times New Roman", Times, serif;  
   background-color: white;
+  margin: auto
 }
 
 .lead {
